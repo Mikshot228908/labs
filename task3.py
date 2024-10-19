@@ -11,7 +11,7 @@ else:
     check_num = 11 - remainder
 
     if check_num == 10:
-        check_num = 'X'
+        check_num = '10'
     elif check_num == 11:
         check_num = '0'
     else:
